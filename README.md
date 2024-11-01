@@ -32,8 +32,8 @@ This project uses several essential libraries:
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/your-username/crowdfunding-dapp.git](https://github.com/jakubpodz/Hackathon-crowdfunding/tree/main)
-   cd crowdfunding-dapp
+   git clone https://github.com/jakubpodz/Hackathon-crowdfunding/tree/main
+cd Hackathon-crowdfunding
    ```
 
 2. Install the dependencies:

@@ -7,7 +7,7 @@ import {
   CrowdFundingABI,
   CrowdFundingAddress,
   handleNetworkSwitch,
-} from "./contants";
+} from "../config/contants";
 
 //---FETCHING SMART CONTRACT
 const fetchContract = (signerOrProvider) =>
